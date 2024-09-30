@@ -1,11 +1,16 @@
+## License
+
 Copyright (c) 2024 Nicolás Felipe Henriquez Pedraza
 
 All rights reserved.
 
-Title: A Comparative Analysis of Time Series Data Augmentation Methods in the Identification of Diabetic Neuropathies Based on Deep Learning Algorithms
+This project is licensed under the terms of the MIT License. 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this paper and associated documentation files (the "Paper"), to deal in the Paper without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Paper, subject to the following conditions:
+You are free to:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Paper.
+- Use the code for personal, academic, or commercial purposes.
+- Replicate the experiments described in the paper.
 
-THE PAPER IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PAPER OR THE USE OR OTHER DEALINGS IN THE PAPER.
+However, if you use this code or any part of the associated paper, please cite the following work:
+
+**A Comparative Analysis of Time Series Data Augmentation Methods in the Identification of Diabetic Neuropathies Based on Deep Learning Algorithms.**
